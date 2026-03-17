@@ -1,86 +1,146 @@
-# SERP CamsCom Downloader
+# CamsCom Downloader (Browser Extension)
 
-**Record live streams and save videos from Cams.com -- straight to MP4.**
+> Browser extension that records Cams.com live streams and downloads recorded videos as MP4 files for offline viewing.
 
-Cams.com streams vanish the moment a broadcast ends, and recorded videos on model pages have no save option. SERP CamsCom Downloader is a browser extension that puts a download button right where you need it. Capture a live show in real time or grab a recorded video in your preferred quality -- everything saves as MP4. No extra software, no complicated steps. Three free downloads included.
+A browser extension that lets you save Cams.com live streams and recorded videos directly to your computer as standard MP4 files. It detects available stream qualities, adds simple capture controls, and gives you a straightforward way to keep videos you have permission to access. No extra software needed. 3 free downloads included.
 
-## Why SERP CamsCom Downloader?
+- Record live Cams.com broadcasts before they disappear
+- Download recorded videos from model pages
+- Choose from available qualities and frame rates
+- Save everything as standard MP4 files for offline viewing
+- Use in-page controls, popup controls, or right-click actions
 
-Most generic downloaders fail on Cams.com because the site scrambles its video data with an advanced protection layer. This extension is purpose-built to handle that obfuscation automatically, delivering a clean MP4 every time -- no broken files, no stalled downloads.
+## Links
 
-## Key Features
+- Get it here: [https://serp.ly/camscom-video-downloader](https://serp.ly/camscom-video-downloader)
+- Latest release: [https://github.com/serpapps/camscom-downloader/releases/latest](https://github.com/serpapps/camscom-downloader/releases/latest)
+- Help center: [https://help.serp.co/en/](https://help.serp.co/en/)
+- Report bugs: [https://github.com/serpapps/camscom-downloader/issues](https://github.com/serpapps/camscom-downloader/issues)
+- Request features: [https://github.com/serpapps/camscom-downloader/issues](https://github.com/serpapps/camscom-downloader/issues)
 
-- **Live stream recording** -- Start/Stop capture of any public live broadcast, saved as MP4.
-- **Recorded video downloads** -- One-click downloads from any model's video page with quality selection.
-- **Quality selector** -- Every available resolution and frame rate, sorted highest to lowest.
-- **In-page download button** -- Appears directly on the video player. No popup required.
-- **Right-click menu** -- "Download CamsCom Stream" from any model page.
-- **Download manager** -- Slide-in panel with progress bars, elapsed time, and cancel controls.
-- **Organized saving** -- Files land in a dedicated CAMSCOM folder inside your Downloads directory.
-- **Multi-browser** -- Chrome, Edge, Brave, Opera, Whale, Yandex, and Firefox.
+## Table of Contents
+
+- [Why CamsCom Downloader](#why-camscom-downloader)
+- [Features](#features)
+- [How It Works](#how-it-works)
+- [Supported Formats](#supported-formats)
+- [Who It's For](#who-its-for)
+- [Common Use Cases](#common-use-cases)
+- [Trial & Access](#trial--access)
+- [Installation Instructions](#installation-instructions)
+- [FAQ](#faq)
+- [Notes](#notes)
+- [About Cams.com](#about-camscom)
+
+## Why CamsCom Downloader
+
+Cams.com does not offer a simple built-in way to save live streams, and live broadcasts disappear once the session ends. Recorded videos on model pages also do not provide a straightforward native download workflow, and generic downloaders often fail because the site uses protected streaming delivery.
+
+CamsCom Downloader gives you a direct way to record live streams and save recorded videos as usable MP4 files without desktop software, manual stream extraction, or trial-and-error with generic tools. Open the page, choose your quality, and save it locally.
+
+## Features
+
+- Live stream recording with Start and Stop controls
+- Download support for recorded Cams.com videos
+- Quality selection for available resolutions and frame rates
+- In-page download controls on supported pages
+- Popup interface for managing downloads
+- Right-click context menu support
+- Download manager with progress, elapsed time, and cancel controls
+- Automatic file organization into a dedicated CAMSCOM folder
+- Cross-browser support for Chrome, Edge, Brave, Opera, Whale, Yandex, and Firefox
 
 ## How It Works
 
-1. **Install** -- Add SERP CamsCom Downloader to your browser.
-2. **Browse** -- Go to Cams.com and open any model page.
-3. **Choose** -- Click the in-page button, open the extension popup, or right-click the page.
-4. **Save** -- For live streams, press Start/Stop. For recorded videos, select quality and press Download. MP4 saved to CAMSCOM folder.
+1. Install the extension from the latest release.
+2. Go to Cams.com and open a live stream or recorded video page.
+3. Start the stream or open the video so the extension can detect it.
+4. Click the download button, use the extension popup, or right-click the page.
+5. Choose the available quality you want.
+6. Record the live stream or download the recorded video.
+7. Save the result as an MP4 file on your computer.
 
 ## Supported Formats
 
-| Output | Details |
-|--------|---------|
-| **MP4** | Universal format that plays on any device or media player. |
-| **Multiple qualities** | All available resolutions and frame rates from the source stream. |
-| **Live + VOD** | Both real-time stream capture and on-demand video downloads. |
+- Input: Cams.com live streams and recorded videos
+- Output: MP4
+
+All saved videos are packaged as standard MP4 files for easy playback in common media players and editing tools.
 
 ## Who It's For
 
-- Viewers who want to keep a live broadcast before it disappears.
-- Users who prefer watching downloaded content offline on their own schedule.
-- Anyone tired of generic downloaders that fail on Cams.com.
-- People who want a browser extension instead of desktop software or command-line tools.
+- Cams.com viewers who want to save live broadcasts before they disappear
+- Users who want offline access to recorded videos
+- People archiving content they have permission to keep
+- Non-technical users who want a browser-based solution instead of desktop software
+- Anyone frustrated by generic downloaders that fail on Cams.com
 
 ## Common Use Cases
 
-- **Save a live show** -- Record a broadcaster's session for later viewing.
-- **Download recorded content** -- Grab archived videos in the quality you want.
-- **Offline viewing** -- Build a local MP4 library that plays anywhere.
-- **Quick captures** -- Right-click or use the in-page button for one-click convenience.
+- Record a live Cams.com show to watch later
+- Save recorded videos from a model page
+- Download content before it is removed or becomes unavailable
+- Keep an offline archive of videos you purchased or have access to
+- Choose the best available quality for playback or storage
+- Use the in-page button or right-click menu for faster one-click capture
 
 ## Trial & Access
 
-| Tier | What you get |
-|------|--------------|
-| **Free trial** | 3 downloads after signing in with your email. No credit card required. |
-| **Licensed** | Unlimited downloads. Purchase from the product page. |
+- Includes **3 free downloads** so you can test it first
+- Email sign-in uses secure one-time password verification
+- No credit card required for the free trial
+- Unlimited downloads available with a paid license
+
+Start here: [https://serp.ly/camscom-video-downloader](https://serp.ly/camscom-video-downloader)
+
+## Installation Instructions
+
+1. Open the latest release page:
+   [https://github.com/serpapps/camscom-downloader/releases/latest](https://github.com/serpapps/camscom-downloader/releases/latest)
+2. Download the extension build for your browser.
+3. Install it in your browser.
+4. Open Cams.com and navigate to a live stream or recorded video.
+5. Use the extension controls to begin recording or downloading.
 
 ## FAQ
 
-**How do I record a live stream?** Open a live model page, click the download button or extension icon, select quality, and press Start. Press Stop when done -- saves as MP4.
+**Can I record live Cams.com streams?**  
+Yes. Open a live broadcast, start the capture, and stop it when you are done. The saved file will be exported as MP4.
 
-**How do I download a recorded video?** Go to a model's video page. Pick your quality and click Download.
+**Can I download recorded videos too?**  
+Yes. The extension supports recorded Cams.com videos in addition to live streams.
 
-**What quality options are available?** Every resolution and frame rate the stream offers, sorted highest first.
+**What quality options are available?**  
+The extension detects the qualities and frame rates provided by the source stream and lists them for selection. Availability varies by stream.
 
-**Where do my downloads go?** A CAMSCOM subfolder inside your browser's default Downloads directory.
+**Where are downloads saved?**  
+Videos are saved into a CAMSCOM subfolder inside your browser's default Downloads directory.
 
-**How many free downloads do I get?** Three. Sign in with your email to activate them. A paid license unlocks unlimited downloads.
+**How many free downloads do I get?**  
+Three. Sign in with your email to activate them. A paid license unlocks unlimited downloads.
 
-**Which browsers are supported?** Chrome, Edge, Brave, Opera, Whale, Yandex, and Firefox.
+**Which browsers are supported?**  
+Chrome, Edge, Brave, Opera, Whale, Yandex, and Firefox.
 
-**Is my data safe?** Yes. All processing happens in your browser. Sign-in uses a secure one-time passcode -- no passwords stored.
+**Do I need extra software?**  
+No. Everything runs through the browser extension.
 
-## Notes (Important)
+**Is my data safe?**  
+Yes. Video handling and processing are done locally in your browser workflow. Sign-in uses a secure one-time passcode.
 
-- This extension is intended for downloading content you own or have permission to download. You are responsible for ensuring you have the right to save any content.
-- An internet connection is required. Download quality depends on the source stream.
-- Private or paid shows cannot be captured. The model must be live for stream recording.
+## Notes
+
+- Only download content you own or have explicit permission to download
+- An internet connection is required for stream capture and downloads
+- Live capture only works while the broadcaster is actively streaming
+- Some content may require account access or payment
+- Available quality depends on the source stream
+- Video quality cannot be enhanced beyond what the source provides
+
+## About Cams.com
+
+Cams.com is a live cam platform centered around live broadcasts, performer pages, and recorded video content. It is designed for streaming, not offline access, so users are often left without a clean way to save videos they are allowed to keep. CamsCom Downloader was built to make that workflow easier for users who want local copies of content they have permission to download.
 
 ## Get It
 
-**Product page:** [https://serp.ly/camscom-video-downloader](https://serp.ly/camscom-video-downloader)<br>
-**Help center:** [https://help.serp.co/en/](https://help.serp.co/en/)<br>
-**Latest release:** [https://github.com/serpapps/camscom-video-downloader/releases/latest](https://github.com/serpapps/camscom-video-downloader/releases/latest)
-
-[**Download SERP CamsCom Downloader**](https://serp.cc/VDM-camscom-video-downloader)
+**[Download CamsCom Downloader](https://serp.ly/camscom-video-downloader)**
