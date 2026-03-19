@@ -12,15 +12,15 @@ Cams.com Downloader is a browser extension built for viewers who want a direct w
 
 ## Links
 
-- 🚀 Get it here: [Cams.com Downloader](https://serp.ly/camscom-video-downloader)
-- 🆕 Latest release: [GitHub Releases](https://github.com/serpapps/camscom-downloader/releases/latest)
-- ❓ Help center: [SERP Help](https://help.serp.co/en/)
-- 🐛 Report bugs: [GitHub Issues](https://github.com/serpapps/camscom-downloader/issues)
-- 💡 Request features: [Feature Requests](https://github.com/serpapps/camscom-downloader/issues)
+- ðŸš€ Get it here: [Cams.com Downloader](https://serp.ly/camscom-video-downloader)
+- ðŸ†• Latest release: [GitHub Releases](https://github.com/serpapps/camscom-downloader/releases/latest)
+- â“ Help center: [SERP Help](https://help.serp.co/en/)
+- ðŸ› Report bugs: [GitHub Issues](https://github.com/serpapps/camscom-downloader/issues)
+- ðŸ’¡ Request features: [Feature Requests](https://github.com/serpapps/camscom-downloader/issues)
 
 ## Preview
 
-![Cams.com Downloader workflow preview](assets/workflow-preview.svg)
+![Cams.com Downloader workflow preview](assets/workflow-preview.webp)
 
 ## Table of Contents
 
