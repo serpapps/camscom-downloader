@@ -139,22 +139,22 @@ Start here: [https://serp.ly/camscom-video-downloader](https://serp.ly/camscom-v
 
 ## FAQ
 
-**Can I record live Cams.com streams**  
+**Can I record live Cams.com streams?**  
 Yes. Active live rooms can be recorded while they are streaming.
 
-**Can I download recorded videos too**  
+**Can I download recorded videos too?**  
 Yes. The extension supports recorded Cams.com videos on supported pages.
 
-**What file format do downloads use**  
+**What file format do downloads use?**  
 Videos are saved as MP4 files.
 
-**What quality options are available**  
+**What quality options are available?**  
 That depends on the stream provided by the page. The extension lists whatever variants are exposed.
 
-**Where are videos saved**  
+**Where are videos saved?**  
 They are saved to your default Downloads location, typically inside a CAMSCOM subfolder.
 
-**Do I need extra software**  
+**Do I need extra software?**  
 No. Everything runs through the browser extension.
 
 ## Notes
