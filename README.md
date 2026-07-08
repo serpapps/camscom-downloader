@@ -1,4 +1,4 @@
-# Cams.com Downloader (Browser Extension)
+# Cams.com Video Downloader (Browser Extension)
 
 > Save Cams.com live streams and recorded videos as MP4 files without manual stream extraction.
 
@@ -12,7 +12,7 @@ Cams.com Downloader is a browser extension built for viewers who want a direct w
 
 ## Links
 
-- :rocket: Get it here: [Cams.com Downloader](https://serp.ly/camscom-video-downloader)
+- :rocket: Get it here: [Cams.com Downloader](https://serp.ly/camscom-video-downloader?via=github)
 - :new: Latest release: [GitHub Releases](https://github.com/serpapps/camscom-downloader/releases/latest)
 - :question: Help center: [SERP Help](https://help.serp.co/en/)
 - :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/camscom-downloader/issues)
@@ -126,7 +126,7 @@ The extension only works on videos you can already open and play in your browser
 - No credit card required for the trial
 - Unlimited downloads are available with a paid license
 
-Start here: [https://serp.ly/camscom-video-downloader](https://serp.ly/camscom-video-downloader)
+Start here: [https://serp.ly/camscom-video-downloader?via=github](https://serp.ly/camscom-video-downloader?via=github)
 
 ## Installation Instructions
 
